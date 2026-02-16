@@ -18,6 +18,9 @@ public class Rectangle extends GeometricObject{
         this.height = height;
     }
 
+    public Rectangle(int i, int i1, String black, boolean b) {
+    }
+
     public double getWidth() {
         return width;
     }
